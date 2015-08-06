@@ -1,7 +1,7 @@
 /**
  * HTTP Request
  * 
- * @author Assaf Elovic 200760262 & David Saidon 200341105
+ * @author Assaf Elovic
  */
 
 import java.io.*;

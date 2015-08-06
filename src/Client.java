@@ -1,7 +1,7 @@
 /**
  * Client
  * 
- * @author David Saidon 200341105 & Assaf Elovic 200760262
+ * @author Assaf Elovic
  */
 
 import java.io.BufferedInputStream;
